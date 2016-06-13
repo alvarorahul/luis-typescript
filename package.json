@@ -1,0 +1,22 @@
+{
+    "name": "luis-wrapper",
+    "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/alvarorahul/luis-typescript.git"
+    },
+    "maintainers": [
+        {
+            "name": "Alvaro Dias",
+            "url": "https://alvarodias.org"
+        }
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "request": "2.72.0"
+    },
+    "devDependencies": {
+        "typescript": "1.8.10",
+        "typings": "1.0.5"
+    }
+}
